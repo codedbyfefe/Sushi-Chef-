@@ -3,7 +3,7 @@ Digital Game prototype
 
 #Sushi Chef
 
-**Created:** 2021 
+**Created:** 2021  
 **Engine:** Unity  
 **Style:** 2D, Pixel Art  
 **Genre:** Clicker Game
@@ -32,3 +32,6 @@ Sushi Chef is a 2D clicker-style game where players produce sushi and grow their
 ---
 
 ## 🖼Screenshots
+
+![Gameplay Screenshot](SC/SG1.png)
+![Gameplay Screenshot](SC/SG3.png)
