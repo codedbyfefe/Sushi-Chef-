@@ -1,7 +1,7 @@
 # Clicker Game
 Digital Game prototype
 
-#Sushi Chef
+# Sushi Chef
 
 **Created:** 2021  
 **Engine:** Unity  
